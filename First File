@@ -2,3 +2,4 @@
 Console.WriteLine(" My name is Zainab Alvi");
 Console.WriteLine("My rool munber is 24-ST-064");
 Console.WriteLine("FSc Subjects are :Maths,English,Chemistry,Physics,Pak Studies, Urdu, ISL");
+Console.WriteLne("1st Semester Subjects are: Calculus,Applied Physics,EHS,CP IT,Isl");
